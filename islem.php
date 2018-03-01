@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/HTML; charset=utf-8" /><meta http-equiv="Content-Type" content="text/HTML; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Kitap Alma Sayfası</title>
-  <link rel="stylesheet" type="text/css" href="sitil.css">
+  <link rel="stylesheet" type="text/css" href="si.css">
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
    <style>
   .custom-combobox {
