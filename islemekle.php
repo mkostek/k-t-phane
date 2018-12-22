@@ -1,4 +1,4 @@
-﻿<head>
+<head>
 <meta http-equiv="Content-Type" content="text/HTML; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="si.css">
 <script>
@@ -26,6 +26,12 @@ if($_POST)
 			$date=date_parse($date);
 			if($date["day"]+20>28)
 			{
+				if($date["month"]==12)
+				{
+					$date["month"]=1;
+					$date["year"]++;
+				}
+				else
 				$date["month"]++;
 				$date["day"]=($date["day"]+20)%27+1;
 			}
