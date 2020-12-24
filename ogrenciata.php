@@ -1,7 +1,7 @@
 ﻿<head>
 <meta http-equiv="Content-Type" content="text/HTML; charset=utf-8" />
 	  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-	  <link rel="stylesheet" type="text/css" href="sitil.css">
+	  <link rel="stylesheet" type="text/css" href="si.css">
   <script type="text/javascript" src="http://code.jquery.com/jquery-1.12.1.min.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   <title>Kitabı Kim Alacak?</title>
